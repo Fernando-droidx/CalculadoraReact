@@ -24,4 +24,4 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el siguiente comando en el terminal:
 ### npm install
 
-# ¡Disfruta de la calculadora interactiva desarrollada con React!
+# ¡Disfruta de la calculadora interactiva desarrollada con React! 👽
