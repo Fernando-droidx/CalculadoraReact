@@ -4,7 +4,7 @@
 
 Esta aplicación fue creada por [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN) para el curso [Aprende React Desde Cero](https://www.youtube.com/watch?v=6Jfk8ic3KVk) publicado en el canal de YouTube freeCodeCamp Español. Su estructura inicial fue creada con el comando `npx create-react-app`.
 # ✔ ¿Que Aprendí?
-Durante el desarrollo de esta calculadora, aprendí a utilizar `props.children` en React. Esta propiedad especial me permite pasar componentes y elementos HTML como hijos a otros componentes, lo que facilita la reutilización y flexibilidad del código.
+Basandome en el proyecto inicial y agregando mi toque, logré hacer una calculadora totalmente funcional. Durante el desarrollo de esta calculadora, aprendí a utilizar `props.children` en React. Esta propiedad especial me permite pasar componentes y elementos HTML como hijos a otros componentes, lo que facilita la reutilización y flexibilidad del código.
 
 Además, también aprendí a manejar excepciones de manera eficiente. Al realizar operaciones aritméticas, implementé el manejo de errores para evitar que la aplicación se bloquee o produzca resultados incorrectos cuando se presentan situaciones inesperadas, como la división por cero o la entrada de datos no numéricos.
 

@@ -29,9 +29,10 @@ function App() {
   return (
     <div className="App">
       <div className='freecodecamp-logo-contenedor'>
-        <img src={freecodecamplogo}
-        className='freecodecamp-logo' 
-        alt='Logo de freecodecamp' />
+        <h1>By: Fernando Ramirez</h1>
+        <div className='Logo-Abajo'>
+          <h1>Github: Fernando-droidx</h1>
+        </div>
       </div>
       <div className='contenedor-calculadora'>
         <Pantalla input={input}/>
@@ -62,6 +63,11 @@ function App() {
         <div className='fila'>
           <BotonClear manejarClear={() => setInput('')}>Clear</BotonClear>
         </div>
+      </div>
+      <div className='Footer-div'>
+        <footer className='Footer-nombre'>
+          <h3>Linkdln: Fernando Ramirez</h3>
+        </footer>
       </div>
     </div>
     

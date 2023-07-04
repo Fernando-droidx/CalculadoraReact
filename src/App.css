@@ -2,12 +2,13 @@
   
   height: 100vh;
   padding-top: 10px;
-  background-color: #060606;
+  background-color: #171717;
   font-family: lato, sans-serif;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  color: bisque;
 }
 
 .freecodecamp-logo-contenedor{
@@ -21,18 +22,34 @@
 .freecodecamp-logo{
   height: 40px;
 }
+.Logo-Abajo{
+  width: 25%;
+  height: 20px;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
 
 .contenedor-calculadora{
   width: 400px;
   height: 600px;
   padding: 14px;
-  background-color: #0081d1;
+  background-color: #000;
   border-radius: 20px;
-  border: 5px solid white;
+  border: 5px solid #FFA41B;
 }
 
 .fila{
   margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Footer-div{
+  width: 100%;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
